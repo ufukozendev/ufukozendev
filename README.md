@@ -10,17 +10,7 @@
   <img src="https://img.shields.io/github/stars/ufukozen?color=4e7cff&style=flat-square&label=Stars" alt="Stars" />
 </div>
 
-## 🚀 About Me
 
-I'm a passionate developer with expertise in modern web application development. With a strong foundation in both frontend and backend technologies, I create seamless, responsive, and user-friendly digital experiences.
-
-My software development journey has given me a diverse skill set and the ability to tackle complex problems with creative solutions. I continuously learn and adapt to new technologies to stay at the forefront of web development.
-
-- 🌍 **Location:** Izmir, Turkey
-- 💼 **Status:** Freelance Full Stack Developer
-- 🎯 **Focus:** Modern web applications, mobile apps, and AI-assisted development
-- 📧 **Contact:** info@ufukozen.com
-- 🌐 **Website:** [ufukozen.com](https://ufukozen.com)
 
 ## 🛠️ Technologies & Skills
 
@@ -96,41 +86,11 @@ My software development journey has given me a diverse skill set and the ability
 
 </div>
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ufukozen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4e7cff&icon_color=4e7cff&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufukozen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4e7cff&text_color=ffffff"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ufukozen&theme=tokyonight&hide_border=true&background=0d1117&stroke=4e7cff&ring=4e7cff&fire=ff6b6b&currStreakLabel=4e7cff" alt="GitHub Streak" />
-</div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ufukozen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
-## 🤝 Connect with Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ufukozendev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/ufukozendev">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.fiverr.com/ufukozen12">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-  </a>
-  <a href="mailto:info@ufukozen.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://ufukozen.com">
-    <img src="https://img.shields.io/badge/Website-4E7CFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-</div>
 
 ## 💡 Areas of Interest
 
