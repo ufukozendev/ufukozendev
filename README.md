@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=UFUK%20ÖZEN&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?text=UFUK%20ÖZEN&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=65" />
 </div>
 
 <div align="center">
