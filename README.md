@@ -112,7 +112,3 @@
   <img src="https://img.shields.io/badge/Bolt.new-FF6B35?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Bolt.new" />
   <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-</div>
