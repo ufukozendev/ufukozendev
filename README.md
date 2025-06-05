@@ -113,48 +113,6 @@
   <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
 </div>
 
-
-
-
-
-
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header&text=&fontSize=0" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  <b>What I'm Building</b>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100">
-        <h3>🚀 Modern Web Apps</h3>
-        <p>Building lightning-fast, responsive web applications with React, Next.js, and TypeScript</p>
-      </td>
-      <td align="center" width="300">
-        <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
-        <h3>📱 Mobile Solutions</h3>
-        <p>Cross-platform mobile apps with Flutter and cutting-edge mobile technologies</p>
-      </td>
-      <td align="center" width="300">
-        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100">
-        <h3>🤖 AI Integration</h3>
-        <p>Leveraging AI tools and APIs to create intelligent, automated solutions</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 </div>
