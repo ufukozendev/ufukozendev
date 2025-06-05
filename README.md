@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=UFUK%20ÖZEN&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=65" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future+with+Code;%F0%9F%A4%96+AI-Powered+Development;%F0%9F%8C%90+Modern+Web+%26+Mobile+Solutions" alt="Typing SVG" />
 </div>
 
